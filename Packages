@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.xd.mbp2
+Name: MovieBoxPro
+Depends: mobilesubstrate
+Version: 6.5
+Architecture: iphoneos-arm
+Description: MovieBoxPro pro is a streaming service containing all the latest and all movies and TV shows.
+Maintainer: MovieBoxPro <toodyefour44@gmail.com>
+Author: MovieBoxPro <toodyefour44@gmail.com>
+Section: Apps
+Depiction: https://squiggling.github.io/repo/depictions/?p=com.xd.mbp2
+Filename: ./debs/com.xd.mbp2.deb
+Size: 42615804
+MD5sum: c6983e2a20ba27e08e5e62f189f1699c
+
