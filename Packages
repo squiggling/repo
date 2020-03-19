@@ -24,5 +24,5 @@ Section: Themes
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Depiction: https://squiggling.github.io/repo/depictions/?p=com.squiggling.lines
 Filename:./debs/com.squiggling.lines_0.1_iphoneos-arm.deb
-Size: 1921440
-MD5sum: 6712373ceba194c5439eadf93d7e24b8
+Size: 1921642
+MD5sum: b5beb1860c12ffef88cb64aa736e4312
