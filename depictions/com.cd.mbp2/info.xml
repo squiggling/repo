@@ -1,0 +1,23 @@
+<package>
+    <id>com.xd.mbp2</id>
+    <name>MovieBoxPro</name>
+    <version>6.5</version>
+    <compatibility>
+        <firmware>
+            <miniOS>10.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>MovieBoxPro pro is a streaming service containing all the latest and all movies and TV shows.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>
