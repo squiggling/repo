@@ -1,0 +1,24 @@
+<package>
+    <id>com.squiggling.lines</id>
+    <name>Lines</name>
+    <version>0.1 Beta</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>A bold and neon iOS theme.
+.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Beta release</change>
+    </changelog>
+    <links></links>
+</package>
